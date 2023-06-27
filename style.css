@@ -1,0 +1,37 @@
+﻿body {
+}
+.header-font {
+    font-family: 'Libre Baskerville', serif;
+}
+.header-display{
+    display:flex;
+    flex-direction:row;
+    align-items:flex-start;
+}
+
+.education-display {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+/* Thick red border */
+hr.new4 {
+    border: 3px solid black;
+}
+.new2 {
+    border-bottom: 3px solid black;
+}
+.heading{
+    color:gray;
+    font-size:x-large;
+}
+
+.sub-heading {
+    color: gray;
+    font-size:large;
+}
+.circle {
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+}
